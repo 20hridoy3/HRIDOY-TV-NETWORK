@@ -131,6 +131,10 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 https://tvsen4.aynaott.com/n64PH4YL/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNqz-rN34UYFWErkHCBxjCA4b-gsMygi2HXqkGN9kDdA&s=10",জলসা Movie HD
 http://premiumtvs.space/live/jen12345/Jen54321/23304.ts
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNqz-rN34UYFWErkHCBxjCA4b-gsMygi2HXqkGN9kDdA&s=10",জলসা Movie HD
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNqz-rN34UYFWErkHCBxjCA4b-gsMygi2HXqkGN9kDdA&s=10",জলসা Movie HD
+http://103.161.153.165:8000/play/a01e/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlFxywmnzFmZzUt2plCmPr2QLI2vx0IXkdZ4VxHiPbA&s=10",Sangeet Bangla
 http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlFxywmnzFmZzUt2plCmPr2QLI2vx0IXkdZ4VxHiPbA&s=10",Sangeet Bangla
@@ -167,8 +171,6 @@ http://103.180.212.191:3500/live/1657.m3u8
 http://103.180.212.191:3500/live/1763.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONIC
 http://103.180.212.191:3500/live/1345.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Enter10 Bangla
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Republic Bangla
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
 
