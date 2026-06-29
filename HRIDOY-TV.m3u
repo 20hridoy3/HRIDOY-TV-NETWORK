@@ -4,6 +4,8 @@
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4X67i76JYzR1m0BWqCLvEM6kiu9QheLtY4Z-yCsZBtg&s=10",Btv
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Nagorik TV
+http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyW_m6rK8Bvkzoswu_oVsgJNl8sBXzLIZhI74qAkYQg&s=10",Asian TV
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyW_m6rK8Bvkzoswu_oVsgJNl8sBXzLIZhI74qAkYQg&s=10",Asian TV
@@ -37,7 +39,7 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR97wsoMASTPK_SGMzofymYkw45I-fw3c0iQKAn5Jz4gg&s=10",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1181200.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKFWkrt1PztZw3Pnovasolpu5fyP5Is59gVP0o1uMxA&s=10",Somoy TV
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NzeLStmp3NM92KnYyqCMDrj66FxY2Tssog9p4CwcdA&s=10",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=1181200.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGhtk9xLINszJ3yUBYZsJkVsCeTIEgbWyZxZqZV8l6aQ&s=10",Me TV
@@ -52,6 +54,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRFK94tRENYwbjXCNTcztIkolVqlVNP5jSjzd98dzFbQ&s=10",Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRFK94tRENYwbjXCNTcztIkolVqlVNP5jSjzd98dzFbQ&s=10",Channel i
+http://180.94.28.28:8097//CHANNEL-i/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqh_n04uvp6Tpc6lP4H98_fVNgTKwb7690PPltgufww&s=10",SA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RIRoi7ZMdgjx9Ep9pQho9z1NBEnrfHPLit9wg_HUOg&s=10",Ananda TV
@@ -130,11 +134,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWHV8l5TDmpbio25_9HtPwz-xAjLQi3KreinVBioQyw&s=10",Star Jalsha
 https://tvsen4.aynaott.com/n64PH4YL/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNqz-rN34UYFWErkHCBxjCA4b-gsMygi2HXqkGN9kDdA&s=10",জলসা Movie HD
-http://premiumtvs.space/live/jen12345/Jen54321/23304.ts
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNqz-rN34UYFWErkHCBxjCA4b-gsMygi2HXqkGN9kDdA&s=10",জলসা Movie HD
-http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNqz-rN34UYFWErkHCBxjCA4b-gsMygi2HXqkGN9kDdA&s=10",জলসা Movie HD
-http://103.161.153.165:8000/play/a01e/index.m3u8
+http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlFxywmnzFmZzUt2plCmPr2QLI2vx0IXkdZ4VxHiPbA&s=10",Sangeet Bangla
 http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlFxywmnzFmZzUt2plCmPr2QLI2vx0IXkdZ4VxHiPbA&s=10",Sangeet Bangla
@@ -159,10 +159,6 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla HD
 http://103.180.212.191:3500/live/756.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Ananda TV
-https://sm-monirul.top/toffee/play/anandatv.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Amar Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colours Bangla Chinema
 https://live20.bozztv.com/giatvplayout7/giatv-209627/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla Cinema
@@ -223,8 +219,14 @@ https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 # Geography Entertainment
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Discovery
 https://sm-monirul.top/toffee/play/discovery_hd.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Discovery
+http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",National Geographic Wild HD (1080p)
 http://103.157.248.140:8000/play/a010/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",National Geography
+http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",CGTN Docment
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Discovery Bangla
 http://103.180.212.191:3500/live/573.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Discovery Hindi
