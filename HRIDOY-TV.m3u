@@ -277,6 +277,12 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY MAX HD
 https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY MAX HD
+http://203.18.159.115/SONYMAXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR BHARAT HD
+http://203.18.159.115/STARBHARATHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR GOLD HD
+http://203.18.159.115/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MAX 1
 http://live.balajibroadband.com:3500/live/3418.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony HD
@@ -340,6 +346,12 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 https://server.itcnbd.live/stream/sony_sports_5_hd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbvbq_za5KYQ6mf_JLNah7DGI6F-ezkS3q1orkThmxg&s=10",T Sports HD
 https://trs1.aynaott.com/tsports/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Tsports 🇧🇩
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PTV SPORTS HD
+http://198.195.239.50:8095/ptv/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",UNITE SPORTS 1 HD
+http://198.195.239.50:8095/unt-s/video.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",A SPORTS
 http://premiumtvs.space/live/jen12345/Jen54321/43444.ts
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Euro TV
