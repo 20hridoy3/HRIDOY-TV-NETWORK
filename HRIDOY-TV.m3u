@@ -273,6 +273,8 @@ http://103.175.73.12:8080/live/274/274_0.m3u8
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",The Movie Club
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Action Hollywood
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY MAX HD
@@ -347,7 +349,7 @@ https://server.itcnbd.live/stream/sony_sports_5_hd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbvbq_za5KYQ6mf_JLNah7DGI6F-ezkS3q1orkThmxg&s=10",T Sports HD
 https://trs1.aynaott.com/tsports/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Tsports 🇧🇩
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PTV SPORTS HD
 http://198.195.239.50:8095/ptv/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",UNITE SPORTS 1 HD
