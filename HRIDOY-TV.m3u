@@ -376,21 +376,7 @@ https://server.itcnbd.live/stream/sony_sports_5_hd.m3u8
 http://172.19.17.202:8090/hls/tntsports1hd.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T sports Akbor
 http://172.19.17.230:8090/hls/tsportshd.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbvbq_za5KYQ6mf_JLNah7DGI6F-ezkS3q1orkThmxg&s=10",T Sports HD
-https://trs1.aynaott.com/tsports/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T sports
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Tsports 🇧🇩
-http://198.195.239.50:8095/tsports/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PTV SPORTS HD
-http://198.195.239.50:8095/ptv/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",UNITE SPORTS 1 HD
-http://198.195.239.50:8095/unt-s/video.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",A SPORTS
-http://premiumtvs.space/live/jen12345/Jen54321/43444.ts
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Euro TV
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FOX
-http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bioscope
-http://sm-monirul.top/ott/bioscope/index.m3u8
