@@ -3,21 +3,15 @@
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_uVquVqp_sLvnRwD3F8AgqTCeOiE-iWgoepWBST-LQ&s=10",G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4X67i76JYzR1m0BWqCLvEM6kiu9QheLtY4Z-yCsZBtg&s=10",Btv
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4X67i76JYzR1m0BWqCLvEM6kiu9QheLtY4Z-yCsZBtg&s=10",Btv Akbor
 http://172.19.17.202:8090/hls/BTVNationalHD.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4X67i76JYzR1m0BWqCLvEM6kiu9QheLtY4Z-yCsZBtg&s=10",BTV
-http://103.151.60.162:2121/play/a013/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Nagorik TV Akbor
 http://192.168.215.25:8095/Nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Nagorik TV
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyW_m6rK8Bvkzoswu_oVsgJNl8sBXzLIZhI74qAkYQg&s=10",Asian TV
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyW_m6rK8Bvkzoswu_oVsgJNl8sBXzLIZhI74qAkYQg&s=10",Asian TV
-https://sm-monirul.top/toffee/play/asian_tv.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-hjS-y66XGwBp4MpHYTSrKB23z0aKlqf_BToRj5_mow&s=10",Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-hjS-y66XGwBp4MpHYTSrKB23z0aKlqf_BToRj5_mow&s=10",Ekushey TV
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NYV0OpOxjCTT411rrMg3Yz1IpVtgZ8EOl8GnH0yKXA&s=10",Bangla Vision
@@ -46,6 +40,8 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1181200.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKFWkrt1PztZw3Pnovasolpu5fyP5Is59gVP0o1uMxA&s=10",Somoy TV Akbor
 http://172.19.17.202:8090/hls/somoytv.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKFWkrt1PztZw3Pnovasolpu5fyP5Is59gVP0o1uMxA&s=10",Somoy TV Akbor
+http://10.99.99.99:8282/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=9c46d056bd68e35cc10b29bec6dd1ce1ba19918f-219a59d6299aa108d33a9930-1785520294-1785509494
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NzeLStmp3NM92KnYyqCMDrj66FxY2Tssog9p4CwcdA&s=10",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=1181200.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGhtk9xLINszJ3yUBYZsJkVsCeTIEgbWyZxZqZV8l6aQ&s=10",Me TV
@@ -60,8 +56,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRFK94tRENYwbjXCNTcztIkolVqlVNP5jSjzd98dzFbQ&s=10",Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRFK94tRENYwbjXCNTcztIkolVqlVNP5jSjzd98dzFbQ&s=10",Channel i
-http://180.94.28.28:8097//CHANNEL-i/index.fmp4.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRFK94tRENYwbjXCNTcztIkolVqlVNP5jSjzd98dzFbQ&s=10",Channel i Akbor
+http://10.99.99.99:8282/CHANNEL.I.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=69f7e8cbbcddb5ca1007c85718e968d2a94daa41-63b49b191cd124ede5ebc7fa-1785520294-1785509494
 #EXTINF:-1  tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqh_n04uvp6Tpc6lP4H98_fVNgTKwb7690PPltgufww&s=10",SA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RIRoi7ZMdgjx9Ep9pQho9z1NBEnrfHPLit9wg_HUOg&s=10",Ananda TV
@@ -75,7 +71,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-vid
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxwCWU2iLKhNeW78bb81-RZSHAA9ECIJxHvTkuqfCRew&s=10",Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKFNe8K7WqB620_vqVIUa4P81cHBFY38BSXqXKDfIbQ&s=10",Bangla TV
-https://sm-monirul.top/toffee/play/bangla_tv.m3u8
+http://10.99.99.99:8282/BANGLA.TV.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=b4efc15320e95da9b078037bef4ed5c9e2e84920-93b51c825d8066d57180b74c-1785520294-1785509494
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9TCx7NYi_LbvQzarernT_VDs8hFQrBdHtgdF4exTtUQ&s=10",RAJDHANI TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdhFrWcfN0_R15tdElFUbmCqcNCdkB_AZu8lpSOAI2w&s=10",ATN Bangla Akbor
@@ -93,7 +89,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqDE6to7Q8E9R1XzWh2ODn_5SNf_wWZmJXmDr3rRTt1Q&s=10",Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZ9s6yG_kZUdvDGuZzVMSLWXWsGfWzWkK2aMsqs5h9g&s=10",Ekhon TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+http://10.99.99.99:8282/EAKHON.TV.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=7bd543b6152d2c6769cd28edcb3ab188675da721-256e088ad252479151740978-1785520294-1785509494
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpzOs-rbXEMWlrcVQBXHBVDzSDURhA4ZM5iVAeIk9AQg&s=10",Gazi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4nMEx9BRLUYZ606pPMDsK6V5oxllOw40rdwJJXMHiRw&s=10",Mohona TV
@@ -114,8 +110,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://sm-monirul.top/toffee/play/toffee_movie.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHcUnzRcYb6iVYx8f-uyXqxUhjXX8CUyxZIP_SHfgFmg&s=10",TOFFEE Dramas VIP
 https://sm-monirul.top/toffee/play/toffee_drama.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRju7Cz0yDr0JHmAmse94OCH6Xve6iTv_lgEGig-BQIyw&s=10",Duronto TV
-http://10.99.99.99:8082/DURANTA.TV.HD/tracks-v1a1/mono.m3u8?token=fec5c5495b6b0f1ae685f29344c430bc2d8c06b4-f711633220484950cdd5eca084e78da9-1784923170-1784912370
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRju7Cz0yDr0JHmAmse94OCH6Xve6iTv_lgEGig-BQIyw&s=10",Duronto TV Akbor
+http://10.99.99.99:8282/DURANTA.TV.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=f04e9eaa4a78e561ef5a61f3e876d2e277740ccf-1b228cf00f6cdd87ea5a68b2-1785520294-1785509494
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReRY_t3Hxydv2f812NVb6M_rXLM3oXyWUtoBsGZm-Q4w&s=10",JonmoBhumi TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SRK TV
@@ -225,9 +221,11 @@ http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Tiny Pop
 https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",POGO
-http://103.180.212.191:3500/live/559.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Pogo Telugu
-http://103.180.212.191:3500/live/1883.m3u8
+http://10.99.99.99:8282/POGO/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=594b0c0e4d486e1502bc1426656f163d52c08358-a931dea110f5b78b1032adff-1785520294-1785509494
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",HUNGAMA
+http://10.99.99.99:8282/HUNGAMA/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=9cf7c56bee7682d77a61a061fecdf331a98b9b2c-ab83942e7f8a55e10c946ba3-1785520294-1785509494
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",HUNGAMA
+http://10.99.99.99:8282/SUPER.HUNGAMA/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=e65c342b365999c000c4ea6e38387409ed92b5b4-1681e511ae9d36ee45f6e400-1785520294-1785509494
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Pogo Akbor
 http://192.168.215.25:8095/pogo/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Nikki
