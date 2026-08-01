@@ -382,6 +382,3 @@ http://172.19.17.230:8090/hls/tsportshd.m3u8
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Euro TV
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
-
-#EXTINF:-1,Rockstar (2026)
-http://10.20.30.40/Data/MOVIES/BANGLA/2026//Rockstar%20%282026%29/Rockstar%20%282026%29.mkv
