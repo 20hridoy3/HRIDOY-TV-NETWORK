@@ -5,7 +5,7 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4X67i76JYzR1m0BWqCLvEM6kiu9QheLtY4Z-yCsZBtg&s=10",Btv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4X67i76JYzR1m0BWqCLvEM6kiu9QheLtY4Z-yCsZBtg&s=10",Btv Akbor
-http://172.19.17.202:8090/hls/BTVNationalHD.m3u8
+http://10.99.99.99:8282/BTV.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=7c3be2082a391042cc07cbbe900f9164ad95a721-08c9582123ed8c999a1932e1-1791089675-1791078875
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Nagorik TV Akbor
 http://192.168.215.25:8095/Nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Nagorik TV
